@@ -1,7 +1,8 @@
-# Hi 👋, I'm Manish Mainali (Ankit)
+<p align="center"> Hi 👋, I'm Manish Mainali (Ankit)
+
 
 A full-stack developer from Nepal, passionate about building clean and functional web applications.
-
+</p>
 ### 🔗 Connect with me
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/_ankit_mainali)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:manishmainali343@gmail.com)
