@@ -13,19 +13,19 @@ A full-stack developer from Nepal, passionate about building clean and functiona
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react" />
 </p>
-**Tags:** `HTML`, `CSS`, `JavaScript`, `TypeScript`, `Tailwind`, `React`
+`HTML`, `CSS`, `JavaScript`, `TypeScript`, `Tailwind`, `React`
 
 ## Back-End & Database
 <p align="left">
   <img src="https://skillicons.dev/icons?i=supabase,php,mysql,postgres" />
 </p>
-**Tags:** `Supabase`, `PHP`, `SQL`, `MySQL`
+`Supabase`, `PHP`, `SQL`, `MySQL`
 
 ## Software Engineering
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,java" />
 </p>
-**Tags:** `C`, `Java`
+`C`, `Java`
 
 ---
 
