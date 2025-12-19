@@ -16,7 +16,7 @@
 
 ## Back-End & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=supabase,php,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=supabase,php,mysql" />
 </p>
 `Supabase`, `PHP`, `SQL`
 
