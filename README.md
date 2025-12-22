@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 I’m currently learning<br>
+💫 About Me:
+ I’m Manish Mainali, a student of 4th sem bca-tu, at mechi multiple campus <br>
 
 
 ## 🌐 Socials:
