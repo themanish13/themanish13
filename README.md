@@ -1,5 +1,4 @@
- About Me:
- I’m Manish Mainali, a student of 4th sem bca-tu, at mechi multiple campus <br>
+                       I’m Manish Mainali, a student of 4th sem bca-tu, at mechi multiple campus <br>
 
 
 ## 🌐 Socials:
